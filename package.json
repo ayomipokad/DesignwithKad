@@ -1,0 +1,21 @@
+{
+  "name": "designwithkad",
+  "version": "1.0.0",
+  "description": "Design with Kad - Graphic Design Initiative at FUTA",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayomipokad/DesignwithKad.git"
+  },
+  "keywords": [
+    "design",
+    "education"
+  ],
+  "author": "Katola Ayomipo Dickson",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
